@@ -1,5 +1,8 @@
 # Mint VR
-## Project Motivation
+## The Start
 After the Stoneman Douglass Shooting, I became very angry with the current gun control policy and the unsatisfactory preventative response to school shootings. At the time, I was young and inexperienced - but, I had an idea. Virtual Reality technology could be used to better prepare high school students for potential school shootings. This idea ripened in my head until-at the beginning of this year-I had a conversation with a peer about creating Virtual Reality Simulations using game engines and the programming language C#. Suddenly, my idea from years ago culminated - all pieces of its puzzle aligned together. All that was left to do was put my newfound plan into action.
+## Project Motivation
+The current state madates in regards to training for how students should handle school shootings to optimize their probability of survival are minimal. In most states, training seminars are given by the police to students that probably will not retain the information being fed to them. Furthermore, students are not actually receive disarmnent/self defense training which would help them if encountered with a shooter. Obviously, it would be best if local police departments could give high schoolers this type of training, however this plan of action would stretch our resources thin. This is where Mint VR comes in. 
 ## Project Description
+Using the game engine Unity and through introducting myself to a new coding language (C#) I was able to create and render an VR animation that firstly, simulates the environment of a school shooting, secondly, teaches correct disarnment form and technique, and thirdly, uses primitive hand tracking technology to physically prompt the user to practice disarnming a shooter in a virtual environment. 
 ## Contact
